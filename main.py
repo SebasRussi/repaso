@@ -1,3 +1,6 @@
+#ejercicio 2
 print("hola_mundo")
-a=int(input("ing num "))
-print(a)
+
+# ejercicio 2
+numero = int(input("ingrese numero "))
+print(numero)
